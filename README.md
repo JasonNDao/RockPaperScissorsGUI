@@ -1,2 +1,2 @@
 # RockPaperScissorsGUI
-Rock Paper Scissors (May 2019)
+Rock Paper Scissors (May 2019)  with Luke Karavan
